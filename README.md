@@ -7,11 +7,11 @@
 --- 
 
 Nous avons souhaité mettre en place la base d'un moteur tel que UE4 ou Unity, permettant de créer des applications simplement, sans que l'utilisateur n'ait à manipuler OpenGL. Le code à été pensé pour qu'il soit possible d'y ajouter des fonctionalités telles quel :
-    * Une interface permettant de manipuler les transforms des objets
-    * Un moteur physique
-    * Plusieurs shaders
-    * Plusieurs textures par material
-    * ...
+* Une interface permettant de manipuler les transforms des objets
+* Un moteur physique
+* Plusieurs shaders
+* Plusieurs textures par material
+* ...
 
 ---
 
